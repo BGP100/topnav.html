@@ -1,0 +1,462 @@
+/* to use the colors just put the name that appears twice in the list */
+
+color.aliceblue {
+  color: aliceblue;
+}
+color.antiquewhite {
+  color: antiquewhite;
+}
+color.aqua {
+  color: aqua;
+}
+color.aquamarine {
+  color: aquamarine;
+}
+color.azure {
+  color: azure;
+}
+color.beige {
+  color: beige;
+}
+color.bisque {
+  color: bisque;
+}
+color.black {
+  color: black;
+}
+color.blanchedalmond {
+  color: blanchedalmond;
+}
+color.blue {
+  color: blue;
+}
+color.blueviolet {
+  color: blueviolet;
+}
+color.brown {
+  color: brown;
+}
+color.burlywood {
+  color: burlywood;
+}
+color.cadetblue {
+  color: cadetblue;
+}
+color.chartreuse {
+  color: chartreuse;
+}
+color.chocolate {
+  color: chocolate;
+}
+color.coral {
+  color: coral;
+}
+color.cornflowerblue {
+  color: cornflowerblue;
+}
+color.cornsilk {
+  color: cornsilk;
+}
+color.crimson {
+  color: crimson;
+}
+color.currentColor {
+  color: currentColor;
+}
+color.cyan {
+  color: cyan;
+}
+color.darkblue {
+  color: darkblue;
+}
+color.darkcyan {
+  color: darkcyan;
+}
+color.darkgoldenrod {
+  color: darkgoldenrod;
+}
+color.darkgray {
+  color: darkgray;
+}
+color.darkgreen {
+  color: darkgreen;
+}
+color.darkgrey {
+  color: darkgrey;
+}
+color.darkkhaki {
+  color: darkkhaki;
+}
+color.darkmagenta {
+  color: darkmagenta;
+}
+color.darkolivegreen {
+  color: darkolivegreen;
+}
+color.darkorange {
+  color: darkorange;
+}
+color.darkorchid {
+  color: darkorchid;
+}
+color.darkred {
+  color: darkred;
+}
+color.darksalmon {
+  color: darksalmon;
+}
+color.darkseagreen {
+  color: darkseagreen;
+}
+color.darkslateblue {
+  color: darkslateblue;
+}
+color.darkslategray {
+  color: darkslategray;
+}
+color.darkslategrey {
+  color: darkslategrey;
+}
+color.darkturquoise {
+  color: darkturquoise;
+}
+color.darkviolet {
+  color: darkviolet;
+}
+color.deeppink {
+  color: deeppink;
+}
+color.deepskyblue {
+  color: deepskyblue;
+}
+color.dimgray {
+  color: dimgray;
+}
+color.dimgrey {
+  color: dimgrey;
+}
+color.dodgerblue {
+  color: dodgerblue;
+}
+color.
+color.firebrick {
+  color: firebrick;
+}
+color.floralwhite {
+  color: floralwhite;
+}
+color.forestgreen {
+  color: forestgreen;
+}
+color.fuchsia {
+  color: fuchsia;
+}
+color.gainsboro {
+  color: gainsboro;
+}
+color.ghostwhite {
+  color: ghostwhite;
+}
+color.gold {
+  color: gold;
+}
+color.goldenrod {
+  color: goldenrod;
+}
+color.gray {
+  color: gray;
+}
+color.green {
+  color: green;
+}
+color.greenyellow {
+  color: greenyellow;
+}
+color.grey {
+  color: grey;
+}
+color.honeydew {
+  color: honeydew;
+}
+color.hotpink {
+  color: hotpink;
+}
+color.indianred {
+  color: indianred;
+}
+color.indigo {
+  color: indigo;
+}
+color.inherit {
+  color: inherit;
+}
+color.initial {
+  color: initial;
+}
+color.ivory {
+  color: ivory;
+}
+color.khaki {
+  color: khaki;
+}
+color.lavender {
+  color: lavender;
+}
+color.lavenderblush {
+  color: lavenderblush;
+}
+color.lawngreen {
+  color: lawngreen;
+}
+color.lemonchiffon {
+  color: lemonchiffon;
+}
+color.lightblue {
+  color: lightblue;
+}
+color.lightcoral {
+  color: lightcoral;
+}
+color.lightcyan {
+  color: lightcyan;
+}
+color.lightgoldenrodyellow {
+  color: lightgoldenrodyellow;
+}
+color.lightgray {
+  color: lightgray;
+}
+color.lightgreen {
+  color: lightgreen;
+}
+color.lightgrey {
+  color: lightgrey;
+}
+color.lightpink {
+  color: lightpink;
+}
+color.lightsalmon {
+  color: lightsalmon;
+}
+color.lightseagreen {
+  color: lightseagreen;
+}
+color.lightskyblue {
+  color: lightskyblue;
+}
+color.lightslategray {
+  color: lightslategray;
+}
+color.lightslategrey {
+  color: lightslategrey;
+}
+color.lightsteelblue {
+  color: lightsteelblue;
+}
+color.lightyellow {
+  color: lightyellow;
+}
+color.lime {
+  color: lime;
+}
+color.limegreen {
+  color: limegreen;
+}
+color.linen {
+  color: linen;
+}
+color.magenta {
+  color: magenta;
+}
+color.maroon {
+  color: maroon;
+}
+color.mediumaquamarine {
+  color: mediumaquamarine;
+}
+color.mediumblue {
+  color: mediumblue;
+}
+color.mediumorchid {
+  color: mediumorchid;
+}
+color.mediumpurple {
+  color: mediumpurple;
+}
+color.mediumseagreen {
+  color: mediumseagreen;
+}
+color.mediumslateblue {
+  color: mediumslateblue;
+}
+color.mediumspringgreen {
+  color: mediumspringgreen;
+}
+color.mediumturquoise {
+  color: mediumturquoise;
+}
+color.mediumvioletred {
+  color: mediumvioletred;
+}
+color.midnightblue {
+  color: midnightblue;
+}
+color.mintcream {
+  color: mintcream;
+}
+color.mistyrose {
+  color: mistyrose;
+}
+color.moccasin {
+  color: moccasin;
+}
+color.navajowhite {
+  color: navajowhite;
+}
+color.navy {
+  color: navy;
+}
+color.oldlace {
+  color: oldlace;
+}
+color.olive {
+  color: olive;
+}
+color.olivedrab {
+  color: olivedrab;
+}
+color.orange {
+  color: orange;
+}
+color.orangered {
+  color: orangered;
+}
+color.orchid {
+  color: orchid;
+}
+color.palegoldenrod {
+  color: palegoldenrod;
+}
+color.palegreen {
+  color: palegreen;
+}
+color.paleturquoise {
+  color: paleturquoise;
+}
+color.palevioletred {
+  color: palevioletred;
+}
+color.papayawhip {
+  color: papayawhip;
+}
+color.pechpuff {
+  color: peachpuff;
+}
+color.peru {
+  color: peru;
+}
+color.pink {
+  color: pink;
+}
+color.plum {
+  color: plum;
+}
+color.powderblue {
+  color: powderblue;
+}
+color.purple {
+  color: purple;
+}
+color.rebeccapurple {
+  color: rebeccapurple;
+}
+color.red {
+  color: red;
+}
+color.rosybrown {
+  color: rosybrown;
+}
+color.royalblue {
+  color: royalblue;
+}
+color.saddlebrown {
+  color: saddlebrown;
+}
+color.salmon {
+  color: salmon;
+}
+color.sandybrown {
+  color: sandybrown;
+}
+color.seagreen {
+  color: seagreen;
+}
+color.seashell {
+  color: seashell;
+}
+color.sienna {
+  color: sienna;
+}
+color.silver {
+  color: silver;
+}
+color.skyblue {
+  color: skyblue;
+}
+color.slateblue {
+  color: slateblue;
+}
+color.slategray {
+  color: slategray;
+}
+color.slategrey {
+  color: slategrey;
+}
+color.snow {
+  color: snow;
+}
+color.springgreen {
+  color: springgreen;
+}
+color.steelblue {
+  color: steelblue;
+}
+color.tan {
+  color: tan;
+}
+color.teal {
+  color: teal;
+}
+color.thistle {
+  color: thistle;
+}
+color.tomato {
+  color: tomato;
+}
+color.transparent {
+  color: transparent;
+}
+color.turquoise {
+  color: turquoise;
+}
+color.unset {
+  color: unset;
+}
+color.violet {
+  color: violet;
+}
+color.wheat {
+  color: wheat;
+}
+color.white {
+  color: white;
+}
+color.whitesmoke {
+  color: whitesmoke;
+}
+color.yellow {
+  color: yellow;
+}
+color.yellowgreen {
+  color: yellowgreen;
+}
