@@ -1,0 +1,12 @@
+line1up {
+  text-decoration-line: overline;
+}
+line2down {
+  text-decoration-line: underline;
+}
+line3through {
+  text-decoration-line: line-through;
+}
+line1and2 {
+  text-decoration-line: overline underline;
+}
